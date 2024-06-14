@@ -1,0 +1,24 @@
+Food,EAT_Lancet,Urban,Rural,Highest_MPCE_Urban,Highest_MPCE_Rural,Lowest_MPCE_Urban,Lowest_MPCE_Decile
+Whole grains,811.0,1029,1275,864,1347,1069,1159
+Potato and Cassava,39.0,51,63,56,58,56,57
+Vegetables,78.0,63,53,93,90,35,30
+Fruits,126.0,46,28,122,81,9,5
+Dairy Foods,153.0,184,145,362,366,49,27
+Protein sources,726.0,151,125,230,262,76,63
+All Animal source proteins,151.0,33,26,60,66,10,6
+Beef and lamb,15.0,5,3,7,11,2,0
+Pork,15.0,0,0,0,0,0,0
+Poultry,62.0,8,6,16,16,1,1
+Eggs,19.0,10,6,18,13,3,1
+Fish,40.0,8,9,16,23,3,2
+Legumes,426.0,95,84,122,143,61,55
+Tree nuts,149.0,21,14,47,52,4,1
+Added fats,450.0,271,207,370,375,137,104
+Palm Oil,60.0,154,94,222,201,54,38
+Unsaturated Fats,354.0,101,107,104,147,82,65
+Dairy Fats,0.0,15,5,42,26,0,0
+Lard,36.0, , , , , , 
+All sweeteners,120.0,114,102,139,202,65,47
+Processed Food,100.0,263,204,911,407,131,136
+Spices,,39,35,51,63,21,18
+Total,2503.0,2169,2214,3079,3174,1643,1645
