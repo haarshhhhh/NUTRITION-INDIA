@@ -1,4 +1,4 @@
-Country_Name,Cost_of_a nutrient_adequate_diet,Cost_of_fruits,Cost_of_vegetables,Cost_of_starchy_staples,Cost_of_animal_source_foods,Cost_of_legumes_nuts_and_seeds,Cost_of_oils_and_fats
+Country_Name,Cost_of_nutrient_adequate_diet,Cost_of_fruits,Cost_of_vegetables,Cost_of_starchy_staples,Cost_of_animal_source_foods,Cost_of_legumes_nuts_and_seeds,Cost_of_oils_and_fats
 Pakistan,1.946,0.923,0.524,0.41,1.019,0.34,0.193
 Chile,2.179,0.619,0.94,0.352,0.765,0.261,0.116
 Nepal,2.565,1.025,0.711,0.507,1.38,0.337,0.166
